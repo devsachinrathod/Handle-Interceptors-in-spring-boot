@@ -15,6 +15,7 @@ public class AuthenticationInterceptors implements HandlerInterceptor {
     private static final String LOCAL_TOKEN = "1234"; // local testing only
 
     //inteceptor
+    //practice
     @Override
     public boolean preHandle(HttpServletRequest request,
                              HttpServletResponse response,
